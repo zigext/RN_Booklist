@@ -1,2 +1,3 @@
 # RN_Booklist
-Mobile app
+Mobile app (SP) Assignment 1
+with React native
